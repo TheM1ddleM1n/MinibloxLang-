@@ -1,4 +1,4 @@
-# 🇷🇺 Miniblox Language Translator inChat
+# Miniblox Language Translator inChat
 
 Simple **transliteration script** for Miniblox.
 
