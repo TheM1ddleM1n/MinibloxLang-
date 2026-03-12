@@ -7,7 +7,7 @@ All Rights Reserved.
 
 ## Ownership
 
-This repository, including all **source code, documentation, assets, and other materials** (the **"Work"**), is the exclusive property of **TheMiddleM1n**.
+This repository, including all **source code, documentation, assets, and other materials** (the **"Work"**), is the exclusive property of **TheM1ddleM1n**.
 
 ---
 
